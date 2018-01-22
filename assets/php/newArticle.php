@@ -1,5 +1,8 @@
 <?php
 if(!$_SESSION['login']) {
+
+
+
     echo ' <div class="wrapper-two" style="display:none">
     
                 <div class="pop-up-two">
@@ -33,7 +36,7 @@ if(!$_SESSION['login']) {
                             <form id="form" method="POST" action="./article.php">
 
                                 <input class="col-xs-12" name=titre id="titre" type="text" placeholder="TITRE">
-                                <textarea class="col-xs-12"  style = "height: 500px;"name=contenu id="contenu" type="text" placeholder="CONTENU"></textarea>
+                                <textarea id="mytextarea" class="col-xs-12"  style = "height: 500px;"name=contenu id="contenu" type="text" placeholder="CONTENU"></textarea>
 
                                 <input class="col-xs-12" id="submit" type="submit" value="POSTER">
 

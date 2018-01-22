@@ -14,3 +14,10 @@ if ($_SESSION['errorOnLogin']){
             </div>
         ';
 }
+else {
+
+    '<div class="alert alert-success">
+    Bonjour'. $_SESSION['pseudo']; '
+            </div>
+    ';
+}
