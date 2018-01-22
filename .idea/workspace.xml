@@ -2,101 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfd8f2a4-f66c-47bf-a4f9-e42b1831391b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/sql/dbname.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets/css/article.css" afterPath="$PROJECT_DIR$/assets/css/article.css" />
-      <change beforePath="$PROJECT_DIR$/assets/php/errorOnLogin.php" afterPath="$PROJECT_DIR$/assets/php/errorOnLogin.php" />
       <change beforePath="$PROJECT_DIR$/assets/php/main.php" afterPath="$PROJECT_DIR$/assets/php/main.php" />
-      <change beforePath="$PROJECT_DIR$/assets/php/newArticle.php" afterPath="$PROJECT_DIR$/assets/php/newArticle.php" />
-      <change beforePath="$PROJECT_DIR$/tinymce/LICENSE.TXT" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/changelog.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/jquery.tinymce.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/langs/readme.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/license.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/advlist/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/anchor/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/autolink/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/autoresize/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/autosave/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/bbcode/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/charmap/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/code/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/codesample/css/prism.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/codesample/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/colorpicker/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/contextmenu/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/directionality/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/img/smiley-cool.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/img/smiley-cry.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/img/smiley-embarassed.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/img/smiley-frown.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/img/smiley-innocent.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/img/smiley-kiss.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/img/smiley-laughing.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/img/smiley-sealed.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/img/smiley-smile.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/img/smiley-surprised.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/img/smiley-undecided.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/img/smiley-wink.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/img/smiley-yell.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/emoticons/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/fullpage/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/fullscreen/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/help/img/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/help/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/hr/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/image/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/imagetools/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/importcss/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/insertdatetime/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/legacyoutput/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/link/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/lists/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/media/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/nonbreaking/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/noneditable/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/pagebreak/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/paste/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/preview/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/print/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/save/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/searchreplace/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/spellchecker/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/tabfocus/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/table/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/template/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/textcolor/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/textpattern/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/toc/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/visualblocks/css/visualblocks.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/visualblocks/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/visualchars/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/plugins/wordcount/plugin.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/content.inline.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/content.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/content.mobile.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-mobile.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/img/anchor.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/img/loader.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/img/object.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/img/trans.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/skin.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/skins/lightgray/skin.mobile.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/themes/inlite/theme.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/themes/mobile/theme.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/themes/modern/theme.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tinymce/js/tinymce/tinymce.min.js" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -135,8 +41,8 @@
       <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/php/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+            <state relative-caret-position="357">
+              <caret line="24" column="2" lean-forward="false" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -276,7 +182,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="105" />
     <option name="y" value="108" />
     <option name="width" value="1400" />
@@ -361,15 +267,15 @@
       <workItem from="1516264975366" duration="147000" />
       <workItem from="1516265133249" duration="12507000" />
       <workItem from="1516353504387" duration="15716000" />
-      <workItem from="1516611701615" duration="8946000" />
+      <workItem from="1516611701615" duration="8951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37316000" />
+    <option name="totallyTimeSpent" value="37321000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13697916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -837,8 +743,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/php/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        <state relative-caret-position="357">
+          <caret line="24" column="2" lean-forward="false" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
           <folding />
         </state>
       </provider>
