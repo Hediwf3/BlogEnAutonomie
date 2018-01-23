@@ -4,6 +4,8 @@
     // On ouvre la bdd
     $bdd = new PDO($_SESSION['host'], $_SESSION['ndcSQL'], $_SESSION['mdpSQL']);
 
+
+
     // On vérifie nos variables
     if(isset($_POST['titre']) && isset($_POST['contenu'])) {
 

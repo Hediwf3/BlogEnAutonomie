@@ -1,4 +1,12 @@
 <?php
+/**
+ * Created by PhpStorm.
+ * User: Admin
+ * Date: 23/01/2018
+ * Time: 10:45
+ */
+
+
     session_start();
 ?>
 
@@ -14,6 +22,7 @@
         crossorigin="anonymous">
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="../css/article.css">
+    <link rel="stylesheet" href="../css/articleAdmin.css">
 
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
@@ -74,7 +83,7 @@
                         </ul>
                     </div>
                 </nav>
-                
+
 
 
                 <div class="tag col-xs-12">
@@ -100,66 +109,25 @@
                     </ul>
                 </div>
 
+                <div class="adminpage">
+
+                    <h2>Welcome to the admin page </h2>
+
+                </div>
+
 
 
 
             </header>
 
-            <?php
-                include_once './successNewArticle.php';
-            ?>
-        </div>
-        <div class="wrapper">
 
-            <div class="pop-up">
-                <div class="pop-up-text">
-                    <div class="container-fluid">
-                        <form id="form" method="POST" action="./login.php">
-
-                            
-                            <input class="col-xs-12" name='email' id="email" type="text" placeholder="E-MAIL">
-                            <input class="col-xs-12" name='mdp' id="PASSWORD" type="password" placeholder="PASSWORD">
-
-                            <input class="col-xs-12" id="submit" type="submit" value="GO!">
-
-                        </form>
-                    </div> 
-                </div>
+            <div>
+                <?php
+                include_once "./afficheArticleAdmin.php"
+                ?>
             </div>
-        </div>
-       <?php
-            include_once './errorOnSignUp.php';
-            include_once './errorOnLogin.php';
-            include_once './newArticle.php';
-            include_once './page.php';
-       ?>
 
-    </main>
+</div>
+</main>
+
 </body>
-
-<script
-        src="https://code.jquery.com/jquery-3.3.1.min.js"
-        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-        crossorigin="anonymous"></script>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-
-<!-- Latest compiled and minified JavaScript permet d'utiliser les fonctionalité avancer de bootstrap -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
-    crossorigin="anonymous"></script>
-
-<script>
- $(document).ready(function () {
-    $('.pop-up-button').click(function () {
-        $('.wrapper').toggleClass('show');
-        $('.wrapper-two').removeClass('show');
-        
-    });
-    $('.pop-up-button-sign-in').click(function () {
-        $('.wrapper-two').toggleClass('show');
-        $('.wrapper').removeClass('show');
-    });
-});
-</script>
-
-</html>

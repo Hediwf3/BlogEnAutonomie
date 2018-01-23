@@ -15,7 +15,7 @@ $limite = 5;
 
 
 $debut = ($page - 1) * $limite;
-/* Ne pas oublier d'adapter notre requête */
+
 $rqq = 'SELECT SQL_CALC_FOUND_ROWS * FROM `t_articles` ORDER BY dateHeure DESC LIMIT :limite OFFSET :debut';
 $rqq = $bdd->prepare($rqq);
 $rqq->bindValue('debut', $debut, PDO::PARAM_INT);
