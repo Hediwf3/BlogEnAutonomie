@@ -3,7 +3,7 @@
     session_start();
 
 
-    $value = 'something from somewhere';
+
 
     setcookie("TestCookie", $value, time()+3600);  /* expire in 1 hour */
 
@@ -21,8 +21,17 @@
     $_SESSION['newArticle'] = false;
     $_SESSION['errorSignUp'] = false;
     $_SESSION['errorOnLogin'] = false;
+    $_SESSION['admin'] = false;
 
     header('Location: ./assets/php/main.php');
+function connectionPDO() : object {
+
+    $dsn = "mysql:dbname=nfactoryblog;host=localhost;charset=utf8";
+    $username = "root";
+    $password = "";
+    $db = new PDO($dsn, $username, $password);
+    return $db;
+}
     
 ?>
 

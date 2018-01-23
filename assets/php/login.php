@@ -21,8 +21,25 @@ $password = sha1($mdp);
 
         }
     }
+$bdd = new PDO($_SESSION['host'], $_SESSION['ndcSQL'], $_SESSION['mdpSQL']);
+$req = $bdd->query('SELECT * FROM t_users');
 
-    header('Location: ./main.php');
+while($user = $req->fetch()) {
+
+
+
+    if($user['T_ROLES_ID_ROLE'] == 1){
+
+        $_SESSION['admin'] = true;
+        echo 'l\'utilisateur est admin';
+    }
+
+    else
+        echo 'lutilisateur nest pas admin';
+}
+
+
+header('Location: ./main.php');
 
 
     
