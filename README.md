@@ -1,6 +1,3 @@
-
-# BLOG
-=======
 # BlogEnAutonomie
 
 
@@ -15,4 +12,4 @@
 + TO DO prévoir le cas où l'utilisateur perd son mot de passe (process de récupération)TO DO
 + TO DO créer un partie supérieur pour les articles les plus vue 
 + TO DO creer des commantaires 
-
++ TO DO liés les articles aux auteurs 
